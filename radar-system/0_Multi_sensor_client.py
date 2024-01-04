@@ -10,7 +10,7 @@ version 3.0
 """
 
 #!/usr/bin/env python
-# python xxxx.py
+# python xxxxx.py
 
 import os
 import sys
